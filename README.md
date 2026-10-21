@@ -1,4 +1,4 @@
-# 🏥 H-02 Multi-Specialty Hospital Management & ACID Transaction Engine
+# 🏥 Multi-Specialty Hospital Management & ACID Transaction Engine
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)](https://fastify.dev/)
